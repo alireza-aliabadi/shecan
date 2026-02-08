@@ -28,8 +28,8 @@ A simple and elegant bash script to manage [Shecan](https://shecan.ir) DNS setti
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/shecan-scripts.git
-cd shecan-scripts
+git clone https://github.com/alireza-aliabadi/shecan.git
+cd shecan
 ```
 
 2. Make the script executable:
